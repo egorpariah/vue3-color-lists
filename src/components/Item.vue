@@ -40,7 +40,6 @@
     item: Object,
     listId: Number,
   });
-
   const isItemChecked = computed(() => {
     return store.data[props.listId - 1].items[props.item.id - 1].selected;
   });

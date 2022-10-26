@@ -2,7 +2,7 @@
 
 SPA on Vue3 + Pinia + Composition API
 
-Deploy of this project on GitHub Pages [Vue 3 Color Lists](https://egorpariah.github.io/vue3-color-lists/)
+Deploy of this project on GitHub Pages: [Vue 3 Color Lists](https://egorpariah.github.io/vue3-color-lists/)
 
 ## Local Run
 
